@@ -90,11 +90,4 @@
   .navbar-links a {
     margin-left: 0;
   }
-
-  .backround.image {
-    background-image: url('./images/Logo.jpg');
-    background-size: cover;
-    background-position: center;
-    min-height: 100vh;
-  }
 }
